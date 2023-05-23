@@ -1,2 +1,1 @@
-# Programação-Orientada-Objeto-SERRATEC
- 
+Repositório para a matéria de Programação Orientada a Objetos da residencia em software serratec 2023.1
